@@ -4,6 +4,7 @@ We work to create cool things through the power of code and to keep good project
 ## Retired Projects  
 These projects have been removed due either to abandonment, a Zandercraft-maintained fork's original creator returning to their repo, or their usefulness reaching it's end.  
 - Zandercraft/adarkroom (Originally forked and maintained for Vortek Academy - no longer needed)  
+- Zandercraft/Texter-Revived (Was abandoned by original developer, but active development has resumed)  
 - Zandercraft/TechnicSolder (Maintained at ZandercraftGames/TechnicSolder for the time being)  
 
 ## Have Questions or Need Support?  
