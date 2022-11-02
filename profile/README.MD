@@ -6,6 +6,7 @@ These projects have been removed due either to abandonment, a Zandercraft-mainta
 - Zandercraft/adarkroom (Originally forked and maintained for Vortek Academy - no longer needed)  
 - Zandercraft/Texter-Revived (Was abandoned by original developer, but active development has resumed)  
 - Zandercraft/TechnicSolder (Maintained at ZandercraftGames/TechnicSolder for the time being)  
+- Zandercraft/Electric-Lightning (Abandoned due to the creation of [The Open Frontier](https://zandercraft.ca/modpack))  
 
 ## Have Questions or Need Support?  
 We are more than happy to assist you! Send us an email at one of the addresses below:  
